@@ -10,7 +10,7 @@ h1{
 }
 section{
     display: flex;
-    text-align: justify;
+   margin-bottom: 10px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +29,9 @@ section{
 }
 .top-banner{
     background-image: url(pexels-johny-rebel-the-explorer-panda-7827250.jpg);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(pexels-johny-rebel-the-explorer-panda-7827250.jpg);
+    background-repeat: no-repeat;
 }
